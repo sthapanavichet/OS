@@ -1,0 +1,12 @@
+Sat Mar 23 20:27:20 2024
+ ERROR Automobile.cpp:drive:48 The black 2016 Cadillac Escalade has no gas left in the tank
+
+
+Sat Mar 23 20:27:21 2024
+ ERROR Automobile.cpp:drive:48 The blue 2008 Chevrolet Impala has no gas left in the tank
+
+
+Sat Mar 23 20:27:21 2024
+ ERROR Automobile.cpp:drive:48 The black 2016 Cadillac Escalade has no gas left in the tank
+
+
